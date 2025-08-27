@@ -38,8 +38,7 @@ If you want to operate at the intersection of embedded systems, AI/ML, and netwo
 
 📬 How to Apply
 
-Email [team@cosmiclabs.io](url) with:
-  Subject line: Founding Engineer – Defense Systems / [Your Name]
+Email [team@cosmiclabs.io](url) with subject line: Founding Engineer – Defense Systems / [Your Name]
 
 In the body:
 - Your name
