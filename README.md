@@ -42,12 +42,12 @@ Email [team@cosmiclabs.io](url) with:
   Subject line: Founding Engineer – Defense Systems / [Your Name]
 
 In the body:
-  Your name
-  Why this role and why Cosmic Labs
-  What you bring technically
-  Soonest available start date
-  Education and years of experience
-  Confirmation of U.S. citizenship and prior DoD/IC/FedCiv experience
+- Your name
+- Why this role and why Cosmic Labs
+- What you bring technically
+- Soonest available start date
+- Education and years of experience
+- Confirmation of U.S. citizenship and prior DoD/IC/FedCiv experience
 
 Attachment:
   PDF resume
